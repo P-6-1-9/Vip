@@ -1,0 +1,1 @@
+function setUserAgent(a){navigator.__defineGetter__("userAgent",function(){return a})}setUserAgent("Mozilla/5.0 (iPad; CPU OS 5_1_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Mobile/9B206");
